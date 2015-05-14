@@ -24,9 +24,9 @@ source: [codeacademy](http://www.codecademy.com/en/tracks/python)
 
 ##Function
 
-   * no. 2 
-   * no. 3
-   * no. 4
+   * no. 2 basic function
+   * no. 3 call function
+   * no. 4 parameter and args
 
 ## For loops
 
