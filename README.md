@@ -3,13 +3,22 @@
 ## Pengenalan Singkat
 
  * Pengenalan singkat tentang pemrograman secara umum
- * Pengenalan tentang Framework untuk aplikasi
- * Pengenalan bahasa Javascript dan framework node.js
  * Pengenalan raspberry pi
+ * Pengenalan bahasa Python
  
-## Praktek Pemrograman dengan node.js + Raspberry Pi
+
+## Tutorial Dasar Pemrograman python
+ source: [codeacademy](http://www.codecademy.com/en/tracks/python)
+ * Syntax, variable assignment, math
+ * String & console output
+ * List
+ * Function
+ * For Loop
  
- * Mengontrol lampu LED (Kelap kelip)
+## Praktek Pemrograman dengan python + Raspberry Pi
+ 
+ * Mengontrol LED #1: blink
+ * Mengontrol LED #2: dimm
  * Mengontrol motor servo 
- * Pengenalan membuat aplikasi web (Kalau ada waktu)
+ * Pengenalan membuat aplikasi web (Kalau ada waktu atau workshop berikutnya)
    > Membuat tombol pada halaman web dan mengasosiasikan dengan fungsi ketika di klik
