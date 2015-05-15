@@ -11,6 +11,7 @@
  source: [codeacademy](http://www.codecademy.com/en/tracks/python)
  * Syntax, variable assignment, math
  * String & console output
+ * Conditionals & Control Flow
  * List
  * Function
  * For Loop

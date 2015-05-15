@@ -15,6 +15,15 @@ source: [codeacademy](http://www.codecademy.com/en/tracks/python)
    * no. 10 Printing Strings
    * no. 11 Printing Variables
 
+##Conditionals & Control Flow
+
+   * no. 2 Set variable true or false
+   * no. 4 usage of comparison operator
+   * no. 11 if statement
+   * no. 12 using if statement
+   * no. 13 else statement
+   * no. 14 elif statement
+   
 ##List :
 
    * no. 1 intro to list
